@@ -4,7 +4,7 @@
 
 Desenvolvendo software com propósito acadêmico e impacto real.
 
-[Instagram](https://www.instagram.com/lasi_unex/) · [Contato](mailto:ligasistemasunex@gmail.com)
+[Instagram](https://www.instagram.com/lasi_unex/) · [Contato](mailto:contato@ligalasi.com.br)
 
 </div>
 
@@ -35,7 +35,7 @@ e boas práticas está centralizada no repositório [`lasi-infra-docs`](#).
 
 ## 📬 Contato
 
-- E-mail: ligasistemasunex@gmail.com
+- E-mail: contato@ligalasi.com.br
 - Instagram: [@lasi_unex](lasi_unex)
 
 ---
